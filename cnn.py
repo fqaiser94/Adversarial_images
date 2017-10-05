@@ -156,7 +156,7 @@ def main(_):
 
   with tf.Session() as sess:
     sess.run(tf.global_variables_initializer())
-    for i in range(20000):
+    for i in range(1000):
       batch = mnist.train.next_batch(50)
       if i % 100 == 0:
         train_accuracy = accuracy.eval(feed_dict={
@@ -166,6 +166,10 @@ def main(_):
 
     print('test accuracy %g' % accuracy.eval(feed_dict={
         x: mnist.test.images, y_: mnist.test.labels, keep_prob: 1.0}))
+
+    # save model
+    saver = tf.train.Saver()
+    saver.save(sess, "saved_models/model")
 
 if __name__ == '__main__':
   parser = argparse.ArgumentParser()
