@@ -24,10 +24,21 @@ with tf.Session() as sess:
     saver.restore(sess, tf.train.latest_checkpoint("saved_models/"))
 
 
-def gradient():
+def gradient(model, ys, xs):
     """
-    returns gradient given a model and x
+    returns gradient given a model, ys and xs
     """
+
+    dydx = tf.gradients(ys=ys,
+                        xs=xs,
+                        grad_ys=None,
+                        name='gradients',
+                        colocate_gradients_with_ops=False,
+                        gate_gradients=False,
+                        aggregation_method=None)
+
+    return dydx
+
 
 
 
