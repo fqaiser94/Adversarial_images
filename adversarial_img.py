@@ -16,3 +16,9 @@ FLAGS, unparsed = parser.parse_known_args()
 # read in mnist data
 mnist = input_data.read_data_sets(FLAGS.data_dir, one_hot=True)
 
+# restore model
+with tf.Session() as sess:
+    saver = tf.train.import_meta_graph("saved_models/model.meta")
+    saver.restore(sess, tf.train.latest_checkpoint("saved_models/"))
+
+
