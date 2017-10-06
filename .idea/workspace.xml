@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ec437a0-da7e-4d4a-8939-0f8571228975" name="Default" comment="created placeholder function for extracting gradient from model">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/adversarial_images.ipynb" />
+    <list default="true" id="7ec437a0-da7e-4d4a-8939-0f8571228975" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adversarial_images.ipynb" afterPath="$PROJECT_DIR$/adversarial_images.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="15" />
             </state>
           </provider>
         </entry>
@@ -79,6 +79,7 @@
       <list>
         <option value="$PROJECT_DIR$/cnn.py" />
         <option value="$PROJECT_DIR$/adversarial_img.py" />
+        <option value="$PROJECT_DIR$/adversarial_images.ipynb" />
       </list>
     </option>
   </component>
@@ -250,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507247551812</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="created notebook (so much better), loaded mnist data, visualized data">
+      <created>1507332928538</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507332928538</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -290,7 +298,8 @@
     <MESSAGE value="read in mnist data" />
     <MESSAGE value="restore model" />
     <MESSAGE value="created placeholder function for extracting gradient from model" />
-    <option name="LAST_COMMIT_MESSAGE" value="created placeholder function for extracting gradient from model" />
+    <MESSAGE value="created notebook (so much better), loaded mnist data, visualized data" />
+    <option name="LAST_COMMIT_MESSAGE" value="created notebook (so much better), loaded mnist data, visualized data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -401,7 +410,7 @@
     <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="15" />
         </state>
       </provider>
     </entry>
