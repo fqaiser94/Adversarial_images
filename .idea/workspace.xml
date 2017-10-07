@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ec437a0-da7e-4d4a-8939-0f8571228975" name="Default" comment="added regression model and loss function">
+    <list default="true" id="7ec437a0-da7e-4d4a-8939-0f8571228975" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adversarial_images.ipynb" afterPath="$PROJECT_DIR$/adversarial_images.ipynb" />
     </list>
@@ -52,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="24" />
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -293,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507337712014</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added regression model and loss function">
+      <created>1507337876478</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1507337876479</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -339,7 +346,8 @@
     <MESSAGE value="created nodes for input images" />
     <MESSAGE value="added variables w (weights) and b (bias)" />
     <MESSAGE value="initialized variables" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialized variables" />
+    <MESSAGE value="added regression model and loss function" />
+    <option name="LAST_COMMIT_MESSAGE" value="added regression model and loss function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -450,7 +458,7 @@
     <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="24" />
+          <selected id="0" />
         </state>
       </provider>
     </entry>
