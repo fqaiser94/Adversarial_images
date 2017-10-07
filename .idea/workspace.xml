@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ec437a0-da7e-4d4a-8939-0f8571228975" name="Default" comment="">
+    <list default="true" id="7ec437a0-da7e-4d4a-8939-0f8571228975" name="Default" comment="added evaluation steps">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adversarial_images.ipynb" afterPath="$PROJECT_DIR$/adversarial_images.ipynb" />
     </list>
@@ -14,45 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cnn.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cnn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding>
-                <marker date="1507332824512" expanded="true" signature="3514:3644" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="3667:3830" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="3860:4011" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="4039:4177" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="4192:5877" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="4520:4666" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="4860:4999" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="5268:5877" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="5342:5658" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="5406:5582" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="5457:5511" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="5716:5784" ph="..." />
-                <marker date="1507332824512" expanded="true" signature="5905:6218" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adversarial_img.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adversarial_img.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="adversarial_images.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="29" />
             </state>
           </provider>
         </entry>
@@ -300,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507337876479</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added evaluation steps">
+      <created>1507338283132</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1507338283132</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -347,7 +320,8 @@
     <MESSAGE value="added variables w (weights) and b (bias)" />
     <MESSAGE value="initialized variables" />
     <MESSAGE value="added regression model and loss function" />
-    <option name="LAST_COMMIT_MESSAGE" value="added regression model and loss function" />
+    <MESSAGE value="added evaluation steps" />
+    <option name="LAST_COMMIT_MESSAGE" value="added evaluation steps" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -388,7 +362,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
+          <folding>
+            <element signature="e#53#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -418,7 +394,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#53#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -451,14 +429,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+          <folding>
+            <element signature="e#53#63#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -488,7 +461,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#53#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="29" />
         </state>
       </provider>
     </entry>
