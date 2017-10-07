@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ec437a0-da7e-4d4a-8939-0f8571228975" name="Default" comment="">
+    <list default="true" id="7ec437a0-da7e-4d4a-8939-0f8571228975" name="Default" comment="added some markdown for thought process">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/adversarial_images.ipynb" afterPath="$PROJECT_DIR$/adversarial_images.ipynb" />
     </list>
@@ -52,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="15" />
+              <selected id="18" />
             </state>
           </provider>
         </entry>
@@ -258,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507332928538</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added some markdown for thought process">
+      <created>1507333907456</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1507333907457</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -299,7 +306,8 @@
     <MESSAGE value="restore model" />
     <MESSAGE value="created placeholder function for extracting gradient from model" />
     <MESSAGE value="created notebook (so much better), loaded mnist data, visualized data" />
-    <option name="LAST_COMMIT_MESSAGE" value="created notebook (so much better), loaded mnist data, visualized data" />
+    <MESSAGE value="added some markdown for thought process" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some markdown for thought process" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -410,7 +418,7 @@
     <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="15" />
+          <selected id="18" />
         </state>
       </provider>
     </entry>
