@@ -52,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="20" />
+              <selected id="22" />
             </state>
           </provider>
         </entry>
@@ -279,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507337490727</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added variables w (weights) and b (bias)">
+      <created>1507337659774</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1507337659774</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -323,7 +330,8 @@
     <MESSAGE value="added some markdown for thought process" />
     <MESSAGE value="added description of our data tensors" />
     <MESSAGE value="created nodes for input images" />
-    <option name="LAST_COMMIT_MESSAGE" value="created nodes for input images" />
+    <MESSAGE value="added variables w (weights) and b (bias)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added variables w (weights) and b (bias)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -434,7 +442,7 @@
     <entry file="file://$PROJECT_DIR$/adversarial_images.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="20" />
+          <selected id="22" />
         </state>
       </provider>
     </entry>
